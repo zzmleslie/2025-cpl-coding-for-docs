@@ -21,4 +21,24 @@ add_executable(2025_cpl_coding_for_docs
         julian.c
         gas.c
         azimuth.c
-        equation.c)
+        equation.c
+        0926OJ_pmtdm.c
+        0926OJ_swap.c
+        0926_OJ_pi1.c
+        0926_OJ_gravity.c
+        0928_scanf1.c
+        0928_srrlen_sizeof.c
+        0928_string_admic.c
+        "0928_scanf_return .c"
+        PLUS_mathlibrary.c
+        0930_classs1_note1.c
+        0930_class_switch_case.c
+        0930_class_for.c
+        0930_for_loop_calculation.c
+        0930_starPyramid.c
+        0930_Array.c
+        1001_OJ_time.c
+        1001_OJ_username.c
+        1001_OJ_memory_viewer.c
+        1001_OJ_panel.c
+)
